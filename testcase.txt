@@ -1,0 +1,44 @@
+1. When the input is an empty string, should return an empty string (reversed).
+Method: ReverseString_ShouldReverseEmptyString
+
+2. When the input is a single-character string, should return the same character (reversed).
+Method: ReverseString_ShouldReverseSingleCharacterString
+
+3. When the input is a longer string with multiple characters and non-alphanumeric characters, should return the reversed string.
+Method: ReverseString_ShouldReverseString
+
+4. When the input is an empty string, should return an empty string (capitalized).
+Method: CapitalizeString_ShouldCapitalizeEmptyString
+
+5. When the input is a string with multiple characters and non-alphanumeric characters, should return the string with all characters capitalized.
+Method: CapitalizeString_ShouldCapitalizeString
+
+6. When counting the occurrences of the specified character in the input string, should return the correct count.
+Method: CountOccurrences_ShouldReturnCorrectCount
+
+7. When identifying whether the input string is a palindrome, should return the correct result (true or false).
+Method: IsPalindrome_ShouldReturnCorrectResult
+
+8. When the input is "hello", should count 2 occurrences of character 'l'.
+Method: CountOccurrences_ShouldReturnCorrectCount
+
+9. When the input is "hello, world!", should count 2 occurrences of character 'o'.
+Method: CountOccurrences_ShouldReturnCorrectCount
+
+10. When the input is "hello", should count 0 occurrences of character 'x'.
+Method: CountOccurrences_ShouldReturnCorrectCount
+
+11. When the input is an empty string, should count 0 occurrences of character 'a'.
+Method: CountOccurrences_ShouldReturnCorrectCount
+
+12. When the input is "radar", should return true as it is a palindrome.
+Method: IsPalindrome_ShouldReturnCorrectResult
+
+13. When the input is "hello", should return false as it is not a palindrome.
+Method: IsPalindrome_ShouldReturnCorrectResult
+
+14. When the input is "Racecar", should return true as it is a palindrome.
+Method: IsPalindrome_ShouldReturnCorrectResult
+
+15. When the input is "Was it a car or a cat I saw?", should return true as it is a palindrome.
+Method: IsPalindrome_ShouldReturnCorrectResult
