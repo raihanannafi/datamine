@@ -84,3 +84,6 @@ Total testcase is `15 testcases` with detail :
 13. `IsPalindrome_Was_it_a_car_or_a_cat_I_saw_ShouldReturnTrue`: Identifying the input string "Was it a car or a cat I saw?" as a palindrome should return true.
 14. `IsPalindrome_A_man_a_plan_a_canal_Panama_ShouldReturnTrue`: Identifying the input string "A man, a plan, a canal, Panama!" as a palindrome should return true.
 15. `IsPalindrome_Hello_world_ShouldReturnFalse`: Identifying the input string "hello, world!" as not a palindrome should return false.
+
+Test Result:
+![image](https://github.com/raihanannafi/datamine/blob/a9872acffd583b306f6f71401f6d7268edca5658/test_result.png)
